@@ -6,7 +6,8 @@ Visualizes multiple sorting algorithms.
 Control array size and choose sorting algorithms.
 Smooth animations for better understanding.
 
-# Getting Started: Prerequisites - Node.js installed.
+# Getting Started:
+Prerequisites - Node.js installed.
 
 # Installation
 Clone the repo: git clone https://github.com/prachimehar/Sorting-Visualizer
