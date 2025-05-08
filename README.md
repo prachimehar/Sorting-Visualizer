@@ -9,10 +9,13 @@
   - Quick Sort
   - Merge Sort
   - Insertion Sort
+    
 - **Interactive controls**:
   - Adjust the array size dynamically.
   - Select the algorithm you want to visualize.
-- **Smooth animations** for a better understanding of sorting processes.
+    
+- **Smooth animations**
+  - for a better understanding of sorting processes.
 
 ## 🚀 Getting Started
 
@@ -23,6 +26,7 @@ Ensure that you have **Node.js** installed on your machine
 ### 🔨 Installation & Setup
 
 1. **Clone the repository**:
+2. 
    git clone https://github.com/prachimehar/Sorting-Visualizer.git
    
    cd Sorting-Visualizer
